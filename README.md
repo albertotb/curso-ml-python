@@ -1,5 +1,3 @@
-# Aprendizaje automático con Python
-
 ## Requisitos
 
 * Instalación de Anaconda3. Como mínimo son necesarias las librerías:
