@@ -8,8 +8,9 @@
     + scipy
     + matplotlib
     + seaborn
-    + statsmodels
+    + mlxtend
     + scikit-learn
+    + keras
 
 * Conocimientos de Python 3.6+
 
