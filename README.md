@@ -11,6 +11,10 @@
     + statsmodels
     + scikit-learn
 
+* Conocimientos de Python 3.6+
+
+* Conocimientos básicos de numpy, pandas y matplotlib
+
 ## Temario
 
 1. Introducción al Machine Learning [[presentación]](./src/slides_supervised/supervised.html)
