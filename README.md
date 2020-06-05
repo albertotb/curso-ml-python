@@ -13,74 +13,75 @@
 
 ## Temario
 
-1. Introducción al Machine Learning [presentación](./src/slides_supervised/supervised.html)
-  - Introducción al aprendizaje automático
-  - Definición y flujo de un proceso de Machine Learning
-  - Tipos de aprendizaje automático
-  - Aprendizaje supervisado vs no supervisado
-  - Problema del sobreentrenamiento
+1. Introducción al Machine Learning [[presentación]](./src/slides_supervised/supervised.html)
+  
+   - Introducción al aprendizaje automático
+   - Definición y flujo de un proceso de Machine Learning
+   - Tipos de aprendizaje automático
+   - Aprendizaje supervisado vs no supervisado
+   - Problema del sobreentrenamiento
 
 2. Análisis de datos con pandas
-- Introducción y despliegue de entorno de pruebas
-   + Numpy
-   + Pandas
-   + Anaconda
-   + Jupyter
-- Operaciones básicas de manipulación de conjuntos de datos
+   - Introducción y despliegue de entorno de pruebas
+     + numpy
+     + pandas
+     + anaconda
+     + jupyter
+   - Operaciones básicas de manipulación de datos (numpy, pandas)
 
 3. Machine Learning práctico con scikit-Learn
-  - Introducción a scikit-learn
-  - Datasets sklearn
-  - Métricas para evaluar modelos y selección hiper-parámetros
-     + Hands-On Python: Cross-Validation
-     + Hands-On Python: GridSearchCV
-  - Introducción a modelos supervisados para problemas de regresión:
-     + Ajuste por mínimos cuadrados: Ridge, Lasso, Elastic Net.
-     + Hands-On Python : Regresión
-  - Introducción a modelos supervisados para problemas de clasificación:
-     + Regresión logística
+   - Introducción a scikit-learn
+   - Datasets sklearn
+   - Métricas para evaluar modelos y selección hiper-parámetros
+      + Hands-On Python: Cross-Validation
+      + Hands-On Python: GridSearchCV
+   - Introducción a modelos supervisados para problemas de regresión:
+      + Ajuste por mínimos cuadrados: Ridge, Lasso, Elastic Net.
+      + Hands-On Python : Regresión
+   - Introducción a modelos supervisados para problemas de clasificación:
+      + Regresión logística
          + Hands-On Python : Clasificación
-     + Introducción a métodos Bayesianos
+      + Introducción a métodos Bayesianos
          + Hands-On Python: Naive Bayes
-     + Introducción a k-vecinos
+      + Introducción a k-vecinos
          + Hands-On Python : KNeighborsClassifier
-  - Introducción a máquinas de soporte vectorial (SVM)
-     + Tipos: Clasificación y Regresión
-     + Tipos de funciones Kernel
-     + Consejos prácticos
-     + Hands-On Python : SVC
-     + Hands-On Python : SVR
-  - Introducción a los árboles de decisión
-     + Tipos: Clasificación, Regresión
-     + Consejos prácticos
-     + Hands-On Python : DecissionTreeClassifier
-     + Hands-On Python : DecissionTreeRegressor
-  - Introducción a Random Forest:
-     + Hands-On Python: RandomForestClassifier
-     + Hands-On Python: RandomForestRegressor
-  - Introducción a las redes neuronales (Keras)
-     + Hands-On Python: MLP
-     + Hands-On Python: Redes Neuronales Convolucionales
-     + Hands-On Python: Redes Neuronales Recurrentes
-  - Gradient Boosting algorithms
-     + Hands-On Python: GradientBoostingClassifier
-     + Hands-On Python: GradientBoostingRegressor
-  - Introducción a modelos no supervisados:
-     + Clustering: K-Means
-  - Introducción a métodos de selección de variables
-     + Hands-On Python: Feature-Selection
-     + Hands-On Python: Dimensionality reduction
-  - Optimización de hyper-parámetros avanzada
-     + Hands-On Python: RandomSearchCV
-     + Hands-On Python: BayesSearchCV (`scikit-optimize`)
+   - Introducción a máquinas de soporte vectorial (SVM)
+      + Tipos: Clasificación y Regresión
+      + Tipos de funciones Kernel
+      + Consejos prácticos
+      + Hands-On Python : SVC
+      + Hands-On Python : SVR
+   - Introducción a los árboles de decisión
+      + Tipos: Clasificación, Regresión
+      + Consejos prácticos
+      + Hands-On Python : DecissionTreeClassifier
+      + Hands-On Python : DecissionTreeRegressor
+   - Introducción a Random Forest:
+      + Hands-On Python: RandomForestClassifier
+      + Hands-On Python: RandomForestRegressor
+   - Introducción a las redes neuronales (Keras)
+      + Hands-On Python: MLP
+      + Hands-On Python: Redes Neuronales Convolucionales
+      + Hands-On Python: Redes Neuronales Recurrentes
+   - Gradient Boosting algorithms
+      + Hands-On Python: GradientBoostingClassifier
+      + Hands-On Python: GradientBoostingRegressor
+   - Introducción a modelos no supervisados:
+      + Clustering: K-Means
+   - Introducción a métodos de selección de variables
+      + Hands-On Python: Feature-Selection
+      + Hands-On Python: Dimensionality reduction
+   - Optimización de hyper-parámetros avanzada
+      + Hands-On Python: RandomSearchCV
+      + Hands-On Python: BayesSearchCV (`scikit-optimize`)
 
 4. Despliegue de modelos
-  - Combinación de modelos
-  - Gestión de ciclo vida de modelos:
-     + Registro y análisis de parámetros y métricas
-     + Persistencia de modelos
-     + Despliegue de modelos con FastAPI y Docker
-  - Caso práctico guiado: Kaggle
+   - Combinación de modelos
+   - Gestión de ciclo vida de modelos:
+      + Registro y análisis de parámetros y métricas
+      + Persistencia de modelos
+      + Despliegue de modelos con FastAPI y Docker
+   - Caso práctico guiado: Kaggle
 
 
 ## Referencias
