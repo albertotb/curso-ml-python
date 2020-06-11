@@ -17,7 +17,7 @@
 ## Temario
 
 1. Introducción al Machine Learning [[presentación]](./src/slides_supervised/supervised.html)
-  
+
    - Introducción al aprendizaje automático
    - Definición y flujo de un proceso de Machine Learning
    - Tipos de aprendizaje automático
@@ -69,11 +69,11 @@
    - Gradient Boosting algorithms
       + Hands-On Python: GradientBoostingClassifier
       + Hands-On Python: GradientBoostingRegressor
-   - Introducción a modelos no supervisados:
-      + Clustering: K-Means
    - Introducción a métodos de selección de variables
       + Hands-On Python: Feature-Selection
       + Hands-On Python: Dimensionality reduction
+   - Introducción a modelos no supervisados:
+      + Clustering: K-Means
    - Optimización de hyper-parámetros avanzada
       + Hands-On Python: RandomSearchCV
       + Hands-On Python: BayesSearchCV (`scikit-optimize`)
