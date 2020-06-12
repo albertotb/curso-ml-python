@@ -83,7 +83,7 @@
    - Gestión de ciclo vida de modelos:
       + Registro y análisis de parámetros y métricas
       + Persistencia de modelos
-      + Despliegue de modelos con FastAPI y Docker
+      + Despliegue de modelos con FastAPI y Docker [repositorio](https://github.com/albertotb/sklearn_fastapi_docker)
    - Caso práctico guiado: Kaggle
 
 
