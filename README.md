@@ -102,3 +102,4 @@
   * [Applied Machine Learning in Python](https://amueller.github.io/aml/)
   * [Introduction to Machine Learning in Python (workshop)](https://github.com/amueller/ml-workshop-1-of-4)
   * [Choosing the right estimator](https://scikit-learn.org/stable/_static/ml_map.png)
+  * [Esquema aprendizaje supervisado](esquemda.md)
