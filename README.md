@@ -8,7 +8,6 @@
     + seaborn
     + mlxtend
     + scikit-learn
-    + keras
 
 * Conocimientos de Python 3.6+
 
@@ -35,6 +34,7 @@
 3. Machine Learning práctico con scikit-Learn
    - Introducción a scikit-learn
    - Datasets sklearn
+   - Preproceso
    - Métricas para evaluar modelos y selección hiper-parámetros
       + Hands-On Python: Cross-Validation
       + Hands-On Python: GridSearchCV
@@ -59,31 +59,32 @@
       + Consejos prácticos
       + Hands-On Python : DecissionTreeClassifier
       + Hands-On Python : DecissionTreeRegressor
-   - Introducción a Random Forest:
+   - Introducción a Random Forest
       + Hands-On Python: RandomForestClassifier
       + Hands-On Python: RandomForestRegressor
-   - Introducción a las redes neuronales (Keras)
-      + Hands-On Python: MLP
-      + Hands-On Python: Redes Neuronales Convolucionales
-      + Hands-On Python: Redes Neuronales Recurrentes
    - Gradient Boosting algorithms
       + Hands-On Python: GradientBoostingClassifier
       + Hands-On Python: GradientBoostingRegressor
+   - Introducción a las redes neuronales
+      + Hands-On Python: MLP
    - Introducción a métodos de selección de variables
       + Hands-On Python: Feature-Selection
       + Hands-On Python: Dimensionality reduction
-   - Introducción a modelos no supervisados:
+   - Introducción a modelos no supervisados
       + Clustering: K-Means
    - Optimización de hyper-parámetros avanzada
       + Hands-On Python: RandomSearchCV
       + Hands-On Python: BayesSearchCV (`scikit-optimize`)
+   -  Introducción a las redes neuronales profundas     
+      + Hands-On Python: Redes Neuronales Convolucionales
+      + Hands-On Python: Redes Neuronales Recurrentes
 
 4. Despliegue de modelos
    - Combinación de modelos
+   - Persistencia de modelos
    - Gestión de ciclo vida de modelos:
-      + Registro y análisis de parámetros y métricas
-      + Persistencia de modelos
       + Despliegue de modelos con FastAPI y Docker [[repositorio]](https://github.com/albertotb/sklearn_fastapi_docker)
+      + Registro y análisis de parámetros y métricas
    - Caso práctico guiado: Kaggle
 
 
@@ -103,4 +104,4 @@
   * [Applied Machine Learning in Python](https://amueller.github.io/aml/)
   * [Introduction to Machine Learning in Python (workshop)](https://github.com/amueller/ml-workshop-1-of-4)
   * [Choosing the right estimator](https://scikit-learn.org/stable/_static/ml_map.png)
-  * [Esquema aprendizaje supervisado](esquemda.md)
+  * [Esquema aprendizaje supervisado](esquema.md)
