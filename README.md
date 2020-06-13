@@ -89,6 +89,7 @@
 
 ## Referencias
 
+  * [Curso numpy y pandas básico](https://github.com/guiwitz/NumpyPandas_course)
   * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
   * [Python for Data Analysis (github)](https://github.com/wesm/pydata-book)
   * [scipy-lectures](https://www.scipy-lectures.org/)
