@@ -1,107 +1,65 @@
+# Introducción al Machine Learning con Python
+
 ## Requisitos
 
-* Instalación de Anaconda3. Como mínimo son necesarias las librerías:
-    + numpy
-    + pandas
-    + scipy
-    + matplotlib
-    + seaborn
-    + mlxtend
-    + scikit-learn
+- Instalación de Anaconda3. Como mínimo son necesarias las librerías:
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - scikit-learn
 
-* Conocimientos de Python 3.6+
-
-* Conocimientos básicos de numpy, pandas y matplotlib
+- Conocimientos de Python 3.9+
 
 ## Temario
 
-1. Introducción al Machine Learning [[presentación]](./src/slides_supervised/supervised.html)
+### 1. Introducción a Python para Data Science (aprox. 1h)
+  1. Entorno de trabajo
+  2. Repaso conceptos básicos
+  3. Estructuras de datos: listas, tuplas y diccionarios
 
-   - Introducción al aprendizaje automático
-   - Definición y flujo de un proceso de Machine Learning
-   - Tipos de aprendizaje automático
-   - Aprendizaje supervisado vs no supervisado
-   - Problema del sobreentrenamiento
+### 2. EDA con Pandas (aprox. 7 horas)
+  1. Estructuras de datos: `DataFrame` y `Series`
+  2. Importar datos
+  3. Filtrado de filas y columnas
+  4. Estadísticas descriptivas
+  5. Operaciones agrupadas
+  6. Visualización
 
-2. Análisis de datos con pandas
-   - Introducción y despliegue de entorno de pruebas
-     + numpy
-     + pandas
-     + anaconda
-     + jupyter
-   - Operaciones básicas de manipulación de datos (numpy, pandas)
+### 3. Machine Learning práctico con scikit-learn (aprox. 10 horas)
+  1. Introducción al Machine Learning [[presentación]](https://albertotb.com/curso-inap/big_data.html)
+  2. Introducción a scikit-learn
+  3. Conjuntos de datos
+  4. Preproceso
+  5. Modelos lineales de regresión: Ridge, Lasso, Elastic Net.
+  6. Modelos lineales de clasificación: regresión logística
+  7. K-Vecinos próximos
+  8. Árboles de decisión
+  9. Ensembles: bagging y boosting
+      - Random Forest
+      - Gradient Boosting
+  10. Métricas para evaluar modelos
+  11. Introducción a modelos no supervisados: K-means
 
-3. Machine Learning práctico con scikit-Learn
-   - Introducción a scikit-learn
-   - Datasets sklearn
-   - Preproceso
-   - Métricas para evaluar modelos y selección hiper-parámetros
-      + Hands-On Python: Cross-Validation
-      + Hands-On Python: GridSearchCV
-   - Introducción a modelos supervisados para problemas de regresión:
-      + Ajuste por mínimos cuadrados: Ridge, Lasso, Elastic Net.
-      + Hands-On Python : Regresión
-   - Introducción a modelos supervisados para problemas de clasificación:
-      + Regresión logística
-         + Hands-On Python : Clasificación
-      + Introducción a métodos Bayesianos
-         + Hands-On Python: Naive Bayes
-      + Introducción a k-vecinos
-         + Hands-On Python : KNeighborsClassifier
-   - Introducción a máquinas de soporte vectorial (SVM)
-      + Tipos: Clasificación y Regresión
-      + Tipos de funciones Kernel
-      + Consejos prácticos
-      + Hands-On Python : SVC
-      + Hands-On Python : SVR
-   - Introducción a los árboles de decisión
-      + Tipos: Clasificación, Regresión
-      + Consejos prácticos
-      + Hands-On Python : DecissionTreeClassifier
-      + Hands-On Python : DecissionTreeRegressor
-   - Introducción a Random Forest
-      + Hands-On Python: RandomForestClassifier
-      + Hands-On Python: RandomForestRegressor
-   - Gradient Boosting algorithms
-      + Hands-On Python: GradientBoostingClassifier
-      + Hands-On Python: GradientBoostingRegressor
-   - Introducción a las redes neuronales
-      + Hands-On Python: MLP
-   - Introducción a métodos de selección de variables
-      + Hands-On Python: Feature-Selection
-      + Hands-On Python: Dimensionality reduction
-   - Introducción a modelos no supervisados
-      + Clustering: K-Means
-   - Optimización de hyper-parámetros avanzada
-      + Hands-On Python: RandomSearchCV
-      + Hands-On Python: BayesSearchCV (`scikit-optimize`)
-   -  Introducción a las redes neuronales profundas     
-      + Hands-On Python: Redes Neuronales Convolucionales
-      + Hands-On Python: Redes Neuronales Recurrentes
-
-4. Despliegue de modelos
-   - Combinación de modelos
-   - Persistencia de modelos
-   - Gestión de ciclo vida de modelos:
-      + Despliegue de modelos con FastAPI y Docker [[repositorio]](https://github.com/albertotb/sklearn_fastapi_docker)
-      + Registro y análisis de parámetros y métricas
-   - Caso práctico guiado: Kaggle
-
+### 4. Despliegue de modelos (aprox. 3 horas)
+  1. Combinación de modelos
+  2. Persistencia de modelos
+  3. Gestión de ciclo vida de modelos:
+     - Despliegue de modelos con FastAPI y Docker [[repositorio]](https://github.com/albertotb/sklearn_fastapi_docker)
+     - Registro y análisis de parámetros y métricas
+     - Caso práctico guiado: Kaggle
 
 ## Referencias
 
-  * [Curso numpy y pandas básico](https://github.com/guiwitz/NumpyPandas_course)
-  * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
-  * [Python for Data Analysis (github)](https://github.com/wesm/pydata-book)
-  * [scipy-lectures](https://www.scipy-lectures.org/)
-  * [scipy.stats](https://docs.scipy.org/doc/scipy/reference/tutorial/stats.html)
-  * [statmodels](https://www.statsmodels.org/stable/index.html)
-  * [machine learning tutorials](https://github.com/ethen8181/machine-learning)
-  * [Machine Learning (Loyola University Chicago)](https://github.com/dmitriydligach/PyMLSlides)
-  * [Machine Learning (University Wisconsin-Madison)](https://github.com/rasbt/stat479-machine-learning-fs19)
-  * [Applied Machine Learning (Columbia University)](https://github.com/amueller/COMS4995-s20)
-  * [Pandas Cookbook](https://github.com/jvns/pandas-cookbook)
-  * [Applied Machine Learning in Python](https://amueller.github.io/aml/)
-  * [Introduction to Machine Learning in Python (workshop)](https://github.com/amueller/ml-workshop-1-of-4)
-  * [Choosing the right estimator](https://scikit-learn.org/stable/_static/ml_map.png)
-  * [Esquema aprendizaje supervisado](esquema.md)
+- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+- [Machine Learning tutorials](https://github.com/ethen8181/machine-learning)
+- [scikit-learn MOOC](https://www.fun-mooc.fr/en/courses/machine-learning-python-scikit-learn/)
+- [Machine Learning (Loyola University Chicago)](https://github.com/dmitriydligach/PyMLSlides)
+- [Machine Learning (University Wisconsin-Madison)](https://github.com/rasbt/stat479-machine-learning-fs19)
+- [Applied Machine Learning (Columbia University)](https://github.com/amueller/COMS4995-s20)
+- [Applied Machine Learning in Python](https://amueller.github.io/aml/)
+- [Introduction to Machine Learning in Python (workshop)](https://github.com/amueller/ml-workshop-1-of-4)
+- [Pandas Cookbook](https://github.com/jvns/pandas-cookbook)
+- [Curso numpy y pandas básico](https://github.com/guiwitz/NumpyPandas_course)
+- [Python for Data Analysis (github)](https://github.com/wesm/pydata-book)
+- [machine learning tutorials](https://github.com/ethen8181/machine-learning)
