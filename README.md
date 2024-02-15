@@ -46,8 +46,8 @@
 
 ### 4.Introducción a transformers (aprox. 2 horas)
 
-  1. Modelos pre-entrenados
-  2. Ejemplos de uso
+  1. Clasificación de texto
+  2. Clasificación de texto zero-shot
 
 ### 5. Despliegue de modelos (aprox. 3 horas)
 
