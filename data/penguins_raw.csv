@@ -4,7 +4,7 @@ PAL0708,1,Adelie Penguin (Pygoscelis adeliae),Anvers,Torgersen,"Adult, 1 Egg Sta
 PAL0708,2,Adelie Penguin (Pygoscelis adeliae),Anvers,Torgersen,"Adult, 1 Egg Stage",N1A2,Yes,2007-11-11,39.5,17.4,186,3800,FEMALE,8.94956,-24.69454,NA
 PAL0708,3,Adelie Penguin (Pygoscelis adeliae),Anvers,Torgersen,"Adult, 1 Egg Stage",N2A1,Yes,2007-11-16,40.3,18,195,3250,FEMALE,8.36821,-25.33302,NA
 PAL0708,4,Adelie Penguin (Pygoscelis adeliae),Anvers,Torgersen,"Adult, 1 Egg Stage",N2A2,Yes,2007-11-16,NA,NA,NA,NA,NA,NA,NA,Adult not sampled.
-PAL0708,5,Adelie Penguin (Pygoscelis adeliae),Anvers,Torgersen,"Adult, 1 Egg Stage",N3A1,Yes,2007-11-16,36.7,19.3,193,3450,FEMALE,8.76651,-25.32426,NA
+PAL0708,5,Adelie Penguin (Pygoscelis adeliae),Anvers,Torgersen,"Adult, 1 Egg Stage",N3A1,Yes,2007-11-16,-,19.3,193,3450,FEMALE,8.76651,-25.32426,NA
 PAL0708,6,Adelie Penguin (Pygoscelis adeliae),Anvers,Torgersen,"Adult, 1 Egg Stage",N3A2,Yes,2007-11-16,39.3,20.6,190,3650,MALE,8.66496,-25.29805,NA
 PAL0708,7,Adelie Penguin (Pygoscelis adeliae),Anvers,Torgersen,"Adult, 1 Egg Stage",N4A1,No,2007-11-15,38.9,17.8,181,3625,FEMALE,9.18718,-25.21799,Nest never observed with full clutch.
 PAL0708,8,Adelie Penguin (Pygoscelis adeliae),Anvers,Torgersen,"Adult, 1 Egg Stage",N4A2,No,2007-11-15,39.2,19.6,195,4675,MALE,9.4606,-24.89958,Nest never observed with full clutch.
@@ -71,7 +71,7 @@ PAL0809,68,Adelie Penguin (Pygoscelis adeliae),Anvers,Biscoe,"Adult, 1 Egg Stage
 PAL0809,69,Adelie Penguin (Pygoscelis adeliae),Anvers,Torgersen,"Adult, 1 Egg Stage",N32A1,No,2008-11-11,35.9,16.6,190,3050,FEMALE,8.47781,-26.07821,Nest never observed with full clutch.
 PAL0809,70,Adelie Penguin (Pygoscelis adeliae),Anvers,Torgersen,"Adult, 1 Egg Stage",N32A2,No,2008-11-11,41.8,19.4,198,4450,MALE,8.86853,-26.06209,Nest never observed with full clutch.
 PAL0809,71,Adelie Penguin (Pygoscelis adeliae),Anvers,Torgersen,"Adult, 1 Egg Stage",N34A1,Yes,2008-11-14,33.5,19,190,3600,FEMALE,7.88863,-26.63085,NA
-PAL0809,72,Adelie Penguin (Pygoscelis adeliae),Anvers,Torgersen,"Adult, 1 Egg Stage",N34A2,Yes,2008-11-14,39.7,18.4,190,3900,MALE,9.29808,-25.23453,NA
+PAL0809,72,Adelie Penguin (Pygoscelis adeliae),Anvers,Torgersen,"Adult, 1 Egg Stage",N34A2,Yes,2008-11-14,NAN,18.4,190,3900,MALE,9.29808,-25.23453,NA
 PAL0809,73,Adelie Penguin (Pygoscelis adeliae),Anvers,Torgersen,"Adult, 1 Egg Stage",N35A1,Yes,2008-11-11,39.6,17.2,196,3550,FEMALE,8.33524,-26.55351,NA
 PAL0809,74,Adelie Penguin (Pygoscelis adeliae),Anvers,Torgersen,"Adult, 1 Egg Stage",N35A2,Yes,2008-11-11,45.8,18.9,197,4150,MALE,8.18658,-26.45978,NA
 PAL0809,75,Adelie Penguin (Pygoscelis adeliae),Anvers,Torgersen,"Adult, 1 Egg Stage",N36A1,Yes,2008-11-08,35.5,17.5,190,3700,FEMALE,8.70642,-26.15003,NA
