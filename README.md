@@ -14,11 +14,13 @@
 ## Temario
 
 ### 1. Introducción a Python para Data Science (aprox. 1h)
+
   1. Entorno de trabajo
   2. Repaso conceptos básicos
   3. Estructuras de datos: listas, tuplas y diccionarios
 
 ### 2. EDA con Pandas (aprox. 7 horas)
+
   1. Estructuras de datos: `DataFrame` y `Series`
   2. Importar datos
   3. Filtrado de filas y columnas
@@ -27,6 +29,7 @@
   6. Visualización
 
 ### 3. Machine Learning práctico con scikit-learn (aprox. 10 horas)
+
   1. Introducción al Machine Learning [[presentación]](https://albertotb.com/curso-inap/big_data.html)
   2. Introducción a scikit-learn
   3. Conjuntos de datos
@@ -41,7 +44,13 @@
   10. Métricas para evaluar modelos
   11. Introducción a modelos no supervisados: K-means
 
-### 4. Despliegue de modelos (aprox. 3 horas)
+### 4.Introducción a transformers (aprox. 2 horas)
+
+  1. Clasificación de texto
+  2. Clasificación de texto zero-shot
+
+### 5. Despliegue de modelos (aprox. 3 horas)
+
   1. Combinación de modelos
   2. Persistencia de modelos
   3. Gestión de ciclo vida de modelos:
@@ -50,6 +59,8 @@
      - Caso práctico guiado: Kaggle
 
 ## Referencias
+
+General
 
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - [Machine Learning tutorials](https://github.com/ethen8181/machine-learning)
@@ -63,3 +74,13 @@
 - [Curso numpy y pandas básico](https://github.com/guiwitz/NumpyPandas_course)
 - [Python for Data Analysis (github)](https://github.com/wesm/pydata-book)
 - [machine learning tutorials](https://github.com/ethen8181/machine-learning)
+
+Transformers
+
+- Hugging Face. [NLP Course](https://huggingface.co/learn/nlp-course/chapter1/1)
+- Hugging Face. [The transformer model family](https://huggingface.co/docs/transformers/en/model_summary)
+- Hugging Face. [Transformers](https://huggingface.co/docs/transformers/en/index)
+- Hugging Face. [Models](https://huggingface.co/models?sort=trending)
+- Hugging Face. [Pretrained models](https://huggingface.co/transformers/v3.3.1/pretrained_models.html)
+- [The most popular HuggingFace models](https://medium.com/@nzungize.lambert/the-most-popular-huggingface-models-d67eaaea392c)
+- [Hugging Face Pre-trained Models: Find the Best One for Your Task](https://neptune.ai/blog/hugging-face-pre-trained-models-find-the-best)

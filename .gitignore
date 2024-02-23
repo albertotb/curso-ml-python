@@ -2,4 +2,9 @@ __pycache__/
 .ipynb_checkpoints
 
 data/NYC-311-SR-CB09-4714.csv
-
+data/train.ft.txt.bz2
+data/test.ft.txt.bz2
+data/aclImdb
+openai_api_key.txt
+results/
+logs/
